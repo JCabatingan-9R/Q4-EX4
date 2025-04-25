@@ -1,0 +1,31 @@
+body {
+	justify-content: center;
+	text-align: center;
+	font-family: Roboto Condensed;
+	background-color: powderblue;
+	color: #766845;
+}
+
+.ooo {
+	margin: 1%;
+}
+
+.container {
+	border-radius: 10px;
+	border: 20px ridge navajowhite;
+	padding: 20px;
+	background-color: antiquewhite;
+}
+
+.result {
+	background-color: #b39a69;
+	padding: 10px;
+	border-radius: 10px;
+	border: ;
+	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: #766845;
+}
